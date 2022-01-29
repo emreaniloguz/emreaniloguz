@@ -1,5 +1,5 @@
 ### , Hii👋 I'm Emre
-![](emre.gif)
+![](src="emre.gif" width=720)
 
 I am a self-taught Python developer with a strong will and desire for creating and trying to understand and apply techniques of computer vision and autonomous movement.
 
