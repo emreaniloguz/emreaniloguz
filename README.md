@@ -1,4 +1,4 @@
-### Hi there 👋, Hii ! I'm Emre
+### , Hii👋 I'm Emre
 ![](emre.gif)
 
 I am a self-taught Python developer with a strong will and desire for creating and trying to understand and apply techniques of computer vision and autonomous movement.
