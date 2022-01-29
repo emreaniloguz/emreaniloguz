@@ -1,7 +1,15 @@
 ### Hii👋 I'm Emre
 ![](emre.gif)
 
-I am a self-taught Python developer with a strong will and desire for creating and trying to understand and apply techniques of computer vision and autonomous movement.
+
+I am a self-taught, highly-motivated Python developer trying to understand and apply modern computer vision and autonomous movement techniques.
+
+
+## Current Status
+
+* 🔭 I’m currently working on Deep Learning based Localization(ITU ARC), Geolocation(ITU ATA Team), and Computer Vision(ITU ATA Team).
+* 🌱 I’m currently learning Pytorch, Tensorflow, Keras.
+* 👯 I’m looking to collaborate on any Deep Learning based project.
 
 ## Skills and Experience
 
@@ -10,10 +18,6 @@ I am a self-taught Python developer with a strong will and desire for creating a
 * Entry-level HTML,CSS,JS 💻
 * C and entry-level C# 🕹️
 * UiPath (Robotic Process Automation) 🤖
-
-- 🔭 I’m currently working on Deep Learning based Localization(ITU ARC), Geolocation(ITU ATA Team), and Computer Vision(ITU ATA Team) 
-- 🌱 I’m currently learning Pytorch, Tensorflow, Keras 
-
 
 ## Achievements
 
