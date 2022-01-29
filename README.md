@@ -26,6 +26,5 @@ I am a self-taught, highly-motivated Python developer trying to understand and a
 * Placed 2nd at the TUBITAK International UAV Competition with the ITU ATA Team 🥈
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/emreaniloguz///)  
 
 ![Profile views](https://gpvc.arturio.dev/emreaniloguz)  
