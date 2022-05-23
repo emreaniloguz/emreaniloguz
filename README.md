@@ -7,16 +7,15 @@ I am a self-taught, highly-motivated Python developer trying to understand and a
 
 ## Current Status
 
-* 🔭 I’m currently working on Deep Learning based Localization(ITU ARC), Geolocation(ITU ATA Team), and Computer Vision(ITU ATA Team).
-* 🌱 I’m currently learning Pytorch, Tensorflow, Keras.
-* 👯 I’m looking to collaborate on any Deep Learning based project.
+* 🔭 I’m currently working on Deep Learning based Localization(ITU ARC), Geolocation(ITU ATA Team), and Computer Vision(ITU ATA Team),Pose Estimation(Scove), GANs and C++(Syntonym).
+
 
 ## Skills and Experience
 
-* Python, OpenCV, YOLOv4, Pytorch, Tensorflow, Computer Vision, Image Processing 🐍🐍
+* Python, OpenCV, YOLO, Pytorch, Tensorflow, Computer Vision, Image Processing 🐍🐍
+* C++, C and entry-level C# 🕹️
 * MATLAB ➕
 * Entry-level HTML,CSS,JS 💻
-* C and entry-level C# 🕹️
 * UiPath (Robotic Process Automation) 🤖
 
 ## Achievements
